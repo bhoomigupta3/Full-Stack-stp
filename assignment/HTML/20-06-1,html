@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>flowers</title>
+</head>
+
+<body bgcolor="lightgreen">
+    <h1>
+        <font face="jokerman" color="darkpink">
+            <u>THE FLOWERS DIARIES!</h1></u>
+
+            <h2>
+                <font face="timeinroman" color="darkpink">
+                    <U>Here About Flowers-</U>
+                </font>
+            </h2>
+        </font>
+        <p>
+            <font face="sarif" color="darkblue"> A flower diary entry could describe a visit to a flower show, the experience of planting and nurturing a flowering plant, or simply the beauty of flowers in nature. The entry might focus on the vibrant colors, fragrant aromas, or the intricate
+                details of the blossoms, expressing a sense of joy, wonder, or connection to nature. It could also reflect on the importance of flowers in ecosystems and their role in pollination. Here are a few examples of what a flower diary entry might
+                contain: A visit to a flower show: "Today, I visited a flower show and was amazed by the vibrant colors and intricate arrangements. It felt like stepping into a different world, filled with the beauty and creativity of nature." Planting
+                a flowering plant: "I planted a small flowering plant today and felt a sense of responsibility and connection to this little life. I'm excited to watch it grow and bloom, and I'll make sure to care for it well." A walk in nature: "The
+                flowers in the meadow were so beautiful, and I spent time just admiring their colors and shapes. It's a reminder of the simple joys and wonders of the natural world." Flowers in art: "I've been sketching flowers lately, trying to capture
+                their delicate details and vibrant colors. It's a wonderful way to appreciate their beauty and spend time connecting with nature." A flower diary entry can be a personal reflection on the beauty and wonder of flowers, their role in the
+                ecosystem, or the joy they bring to our lives.
+        </p>
+        </font>
+        <img src="https://www.bunchesofblooms.ca/wp-content/uploads/2024/01/fall-2024-6509.jpg" width="300px" height="300px">
+        <img src="https://firstcomeflowers.typepad.com/.a/6a012877361374970c019104a7a25d970c-pi" width="300px" height="300px">
+        <img src="https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRlDDEBvB7zw9x57KCfpkjoV9DRLjeE09FxWc12y125M48lDa5LG7LbN3OE6JVTZFqfOXG-GvzTQhwU3pYihTIaFn5L-AOfRJlZykGQ6_0" width="300px" height="300px">
+        <img src="https://images.pexels.com/photos/697259/pexels-photo-697259.jpeg?cs=srgb&dl=pexels-hieu-697259.jpg&fm=jpg" width="300px" height="300px">
+        <hr align="left" color="grey" width="2000px" height="1000">
+
+</body>
+
+</html>
