@@ -1,0 +1,308 @@
+                        .box {
+                            background-color: rgb(255, 255, 255);
+                            height: 600px;
+                            width: 80%;
+                            margin: auto;
+                            border-radius: 20px;
+                            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+                        }
+                        
+                        .body1 {
+                            background-color: #f3f0f0;
+                            font-family: sans-serif;
+                            margin: 0;
+                            padding: 0;
+                        }
+                        
+                        h3 {
+                            color: orange;
+                        }
+                        
+                        h1 {
+                            color: rgb(29, 3, 89);
+                        }
+                        
+                        .box1 {
+                            background-color: rgb(29, 3, 89);
+                            height: fit-content;
+                            margin-bottom: 3%;
+                        }
+                        
+                        .bhoomi {
+                            text-align: left;
+                            padding-left: 30px;
+                            font-size: large;
+                        }
+                        
+                        .body2 {
+                            font-family: Arial, sans-serif;
+                            background: #ffffff;
+                            display: flex;
+                            justify-content: center;
+                            padding: 40px;
+                        }
+                        
+                        .container {
+                            display: flex;
+                            gap: 40px;
+                        }
+                        
+                        .image-section img {
+                            width: 800px;
+                            border-radius: 50px;
+                            margin-left: 30%;
+                        }
+                        
+                        .form-box {
+                            background-color: #031F5B;
+                            color: white;
+                            padding: 30px;
+                            width: 400px;
+                            margin-right: 5%;
+                            margin-top: 4%;
+                            margin-left: 12%;
+                            margin-bottom: 5%;
+                        }
+                        
+                        .form-box h2 {
+                            margin-bottom: 20px;
+                        }
+                        
+                        table {
+                            width: 100%;
+                        }
+                        
+                        th {
+                            background-color: #031F5B;
+                            color: #f3f0f0;
+                        }
+                        
+                        td {
+                            padding: 8px;
+                        }
+                        
+                        input,
+                        select {
+                            width: 100%;
+                            padding: 8px;
+                            border: none;
+                            border-radius: 4px;
+                            margin-top: 5px;
+                        }
+                        
+                        .captcha {
+                            display: flex;
+                            align-items: center;
+                            gap: 10px;
+                        }
+                        
+                        .checkbox {
+                            font-size: 10px;
+                            margin-top: 10px;
+                            margin-bottom: 15px;
+                        }
+                        
+                        button {
+                            background-color: #FEC40E;
+                            color: black;
+                            font-weight: bold;
+                            padding: 10px;
+                            width: 100%;
+                            border: none;
+                            border-radius: 4px;
+                        }
+                        
+                        .heading {
+                            color: #031F5B;
+                            margin-left: 1000px;
+                            margin-top: 70px;
+                            padding-left: 100px;
+                        }
+                        
+                        .box3 {
+                            background-color: rgb(237, 233, 233);
+                            height: 600px;
+                            width: 80%;
+                            margin: auto;
+                            border-radius: 20px;
+                            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+                        }
+                        
+                        .subheading {
+                            padding-left: 10%;
+                        }
+                        
+                        .non {
+                            padding-left: 10%;
+                            text-align: justify;
+                            padding-right: 10%;
+                        }
+                        
+                        .non::before {
+                            content: url("https://th.bing.com/th/id/R.557a6cbe6d98ad46d853723201306c9f?rik=o2OpVXFinlHNjA&riu=http%3a%2f%2fwww.atn.com.au%2fsocialmedia%2frt.gif&ehk=rOMQzonEpNAozw2u8229Q2K5ktEFVxg6pBZ6tG3pQAw%3d&risl=&pid=ImgRaw&r=0");
+                            width: 1px;
+                            height: 1px;
+                        }
+                        
+                        .sapna {
+                            width: 1500px;
+                            margin-left: 10%;
+                        }
+                        
+                        .table4 {
+                            width: 1500px;
+                            margin-left: 10%;
+                        }
+                        
+                        .head {
+                            padding-left: 10%;
+                        }
+                        
+                        .box5 {
+                            background-color: rgb(237, 233, 233);
+                            height: auto;
+                            width: 100%;
+                            margin: auto;
+                            border-radius: 20px;
+                            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+                        }
+                        
+                        .box6 {
+                            background-color: white;
+                            height: auto;
+                            width: 100%;
+                            margin: auto;
+                        }
+                        
+                        .content-box {
+                            display: flex;
+                            justify-content: center;
+                            flex-wrap: wrap;
+                            gap: 30px;
+                            align-items: flex-start;
+                        }
+                        
+                        .image-area img {
+                            width: 450px;
+                            border-radius: 12px;
+                        }
+                        
+                        .info-area {
+                            max-width: 500px;
+                        }
+                        
+                        .card {
+                            background-color: #f9f9f9;
+                            text-align: left;
+                            padding: 20px;
+                            border-radius: 12px;
+                            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+                            margin-bottom: 20px;
+                        }
+                        
+                        .eligibility {
+                            border-left: 5px solid #031f5b;
+                        }
+                        
+                        .merit {
+                            border-left: 5px solid #f26a21;
+                        }
+                        
+                        .card h3 {
+                            margin-top: 0;
+                            font-size: 18px;
+                            color: #031f5b;
+                        }
+                        
+                        .card p {
+                            margin: 10px 0 0;
+                            font-size: 15px;
+                        }
+                        
+                        .contact-box {
+                            background-color: #eaf1ff;
+                            padding: 20px;
+                            border-radius: 12px;
+                            margin-top: 40px;
+                            max-width: 700px;
+                            margin-left: auto;
+                            margin-right: auto;
+                        }
+                        
+                        .contact-link {
+                            display: inline-block;
+                            margin-top: 10px;
+                            color: #f26a21;
+                            font-weight: bold;
+                        }
+                        
+                        .box7 {
+                            background-color: rgb(237, 233, 233);
+                            height: auto;
+                            width: 100%;
+                            margin: auto;
+                        }
+                        
+                        .our {
+                            color: rgb(18, 3, 84);
+                            font-size: xx-large;
+                            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                        }
+                        
+                        .box8 {
+                            display: flex;
+                            justify-content: space-around;
+                            align-items: center;
+                            background-color: white;
+                            width: 60%;
+                            height: 100px;
+                            margin: auto;
+                            border-radius: 12px;
+                            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+                            border-top: 2px solid #f26a21;
+                        }
+                        
+                        .start h2 {
+                            margin: 0;
+                            font-size: 32px;
+                            color: #031f5b;
+                            font-weight: bold;
+                        }
+                        
+                        .start p {
+                            margin: 5px 0 0 0;
+                            color: #555;
+                            font-size: 14px;
+                            text-align: center;
+                        }
+                        
+                        .logomain {
+                            display: grid;
+                            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+                            gap: 20px;
+                            max-width: 1000px;
+                            margin: auto;
+                        }
+                        
+                        .logo {
+                            background: white;
+                            border-radius: 10px;
+                            padding: 20px;
+                            text-align: center;
+                            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+                            transition: transform 0.2s;
+                        }
+                        
+                        .logo:hover {
+                            transform: scale(1.05);
+                        }
+                        
+                        .logo img {
+                            width: 100%;
+                            height: 50px;
+                            object-fit: contain;
+                        }
+                        
+                        .boxx {
+                            background-color: white;
+                        }
